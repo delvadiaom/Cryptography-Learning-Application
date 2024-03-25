@@ -20,9 +20,9 @@ in short, this project explains the algorithm by using a user-entered example
 ------------------------------------------------------------------------------------------------------------------------------------
 
 							Snippets
-
-![Picture1](https://github.com/enigmaOfficial/enigma_learner/blob/master/Snipps/Picture1.png)
+       
 ![Screenshot (300)](https://github.com/delvadiaom/Cryptography-Learning-Application/assets/102248079/5be5fb06-2245-4d8e-af81-96b6994a6b3f)
+![Picture1](https://github.com/enigmaOfficial/enigma_learner/blob/master/Snipps/Picture1.png)
 ![Picture2](https://github.com/enigmaOfficial/enigma_learner/blob/master/Snipps/Picture2.png)
 ![Picture3](https://github.com/enigmaOfficial/enigma_learner/blob/master/Snipps/Picture3.png)
 ![Picture4](https://github.com/enigmaOfficial/enigma_learner/blob/master/Snipps/Picture4.png)
